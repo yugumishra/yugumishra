@@ -9,7 +9,7 @@
 
 [![Yugank's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugumishra&show_icons=true&theme=dark)](https://github.com/yugumishra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugumishra&langs_count=8&layout=compact)](https://github.com/yugumishra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugumishra&langs_count=1&layout=compact)](https://github.com/yugumishra/github-readme-stats)
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=yugumishra&theme=onedark)
 
