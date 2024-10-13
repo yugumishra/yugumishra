@@ -22,11 +22,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 
-- 🌱 
-- 👯 
-- 🤔 
-- 💬 
-- 📫 
+- 🔭 Astronomy fan
+- 🤔 Curious & avid learner
+- 💬 Good communicator
+- ⚡ Determined
 - 😄 Pronouns: he/him
-- ⚡ 
